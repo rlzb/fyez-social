@@ -22,9 +22,7 @@ JavaScript (Optional): Used to add interactive elements and advanced animations 
 
 Project Structure
 bash
-Copiar
-Editar
-/meu-site-cybernetico
+/fyez-social
 │
 ├── /assets
 │   ├── /images
@@ -46,6 +44,7 @@ Editar
 │   └── script.js              # JavaScript for future enhancements (optional)
 │
 └── README.md                  # Project description
+
 Installation
 To view the website locally, follow these steps:
 
