@@ -54,7 +54,7 @@ Clone the repository:
 bash
 Copiar
 Editar
-git clone https://github.com/yourusername/cybernetic-website.git
+git clone https://github.com/rlzb/fyez-social.git
 Navigate to the project directory:
 
 bash
