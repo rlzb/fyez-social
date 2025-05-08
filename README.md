@@ -21,6 +21,9 @@ CSS: To create the styling, animations, and overall design of the site, includin
 JavaScript (Optional): Used to add interactive elements and advanced animations (if needed in the future).
 
 Project Structure
+
+
+
 bash
 /fyez-social
 │
