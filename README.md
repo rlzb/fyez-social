@@ -25,28 +25,6 @@ Project Structure
 
 
 bash
-/fyez-social
-│
-├── /assets
-│   ├── /images
-│   │   └── snow.png           # Image for snow effect
-│   └── /fonts
-│       └── 'font.ttf'         # Custom font (optional)
-│
-├── /pages
-│   ├── index.html             # Home page
-│   ├── pagina2.html           # Second page
-│   ├── pagina3.html           # Third page
-│   ├── pagina4.html           # Fourth page
-│   └── pagina5.html           # Fifth page
-│
-├── /css
-│   └── style.css              # Stylesheet for the website
-│
-├── /js
-│   └── script.js              # JavaScript for future enhancements (optional)
-│
-└── README.md                  # Project description
 
 Installation
 To view the website locally, follow these steps:
